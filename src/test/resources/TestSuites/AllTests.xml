@@ -1,0 +1,7 @@
+<suite name ="AllTests" verbose="1">
+    <test name ="RestfulBooker">
+        <classes>
+            <class name ="com.herokuapp.restfulbooker.RestfulBooker"></class>
+        </classes>
+    </test>
+</suite>

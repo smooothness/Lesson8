@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2134","getListOfAllBooks()","","Thu Aug 29 17:15:09 EEST 2024","passed","Thu Aug 29 17:15:11 EEST 2024","","restful_booker","restful_booker","getListOfAllBooks"
+"","2029","getBookIdFromList()","","Thu Aug 29 17:15:07 EEST 2024","passed","Thu Aug 29 17:15:09 EEST 2024","","restful_booker","restful_booker","getBookIdFromList"
+"","840","createValidBooking()","","Thu Aug 29 17:15:11 EEST 2024","passed","Thu Aug 29 17:15:12 EEST 2024","","restful_booker","restful_booker","createValidBooking"
+"","2771","createBookingFirstName()","","Thu Aug 29 17:15:01 EEST 2024","broken","Thu Aug 29 17:15:04 EEST 2024","","restful_booker","restful_booker","createBookingFirstName"
+"","732","createInvalidBooking()","","Thu Aug 29 17:15:06 EEST 2024","passed","Thu Aug 29 17:15:07 EEST 2024","","restful_booker","restful_booker","createInvalidBooking"
+"","2247","updateValidBooking()","","Thu Aug 29 17:15:04 EEST 2024","passed","Thu Aug 29 17:15:06 EEST 2024","","restful_booker","restful_booker","updateValidBooking"
